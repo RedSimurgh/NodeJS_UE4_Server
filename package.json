@@ -6,6 +6,6 @@
     "camera-capture": "0.0.11",
     "express": "^4.17.1",
     "puppeteer": "^4.0.0",
-    "socket.io": "^2.0.0"
+    "socket.io": "^2.4.0"
   }
 }
